@@ -1,2 +1,2 @@
 # Todo-App
-Tareas
+Aplicacion de tareas sencillas con contador.
